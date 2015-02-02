@@ -1,0 +1,14 @@
+{
+  "name": "TestProject2",
+  "version": "1.0.0",
+  "description": "my test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeff zhang",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.11.1"
+  }
+}
